@@ -1,0 +1,21 @@
+{
+    "JFK": "New York",
+    "LHR": "London",
+    "LAX": "Los Angeles",
+    "ORD": "Chicago",
+    "CDG": "Paris",
+    "DFW": "Dallas",
+    "SFO": "San Francisco",
+    "DXB": "Dubai",
+    "AMS": "Amsterdam",
+    "DEL": "Delhi",
+    "BOM": "Mumbai",
+    "HND": "Tokyo",
+    "SIN": "Singapore",
+    "SYD": "Sydney",
+    "ATL": "Atlanta",
+    "FRA": "Frankfurt",
+    "MAD": "Madrid",
+    "SEA": "Seattle"
+  }
+  
