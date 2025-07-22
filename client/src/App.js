@@ -184,7 +184,8 @@ import jsPDF from 'jspdf';
 import iataCityMap from './iataCityMap.json';
 
 // ✅ Replace this with your actual Render backend URL:
-const API_BASE = 'https://aviation-dashboard-backend.onrender.com';
+const API_BASE = 'https://aviation-dashboard-w4bv.onrender.com';
+
 
 function App() {
   const [flight, setFlight] = useState(localStorage.getItem('flight') || '');
