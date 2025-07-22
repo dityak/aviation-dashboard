@@ -211,6 +211,7 @@ function App() {
     try {
       const res = await axios.get(`${API_BASE}/api/flight/${flight}`);
 
+
       if (!res.data || !res.data.data || res.data.data.length === 0) {
         toast.warn("No flight data found ⚠️");
         setFlightData(null);
